@@ -7,6 +7,7 @@ The primary purpose of this shield is to interface the Arduino with typical anal
 Features:
 
 * I2C communication with the Arduino (or another microcontroller of your choice)
+* Galvanic isolation between the microcontroller and the I/O
 * 2x 4 - 20 mA output
 * 2x 4 - 20 mA input
 * 24 V DC power output
